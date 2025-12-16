@@ -1,0 +1,14 @@
+Telethon
+cryptg
+psutil
+uvloop
+waitress
+orjson
+ffmpeg
+cryptg
+psutil
+Telethon
+uvloop
+waitress
+Pyrogram
+TgCrypto
